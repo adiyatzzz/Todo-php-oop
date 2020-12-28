@@ -1,0 +1,11 @@
+URL page user : 
+http://localhost/adiyat-oop/user
+			atau
+http://localhost/adiyat-oop/
+___________________________________________________________________________________________________________
+
+URL page admin :
+http://localhost/adiyat-oop/admin
+
+username : admin
+pass : 123
